@@ -43,3 +43,9 @@ h1{
     height: 100px;
     float: left;
 }
+#formulario{
+    width: 1000px;
+    height: 300px;
+    float: left;
+    background-color: darkcyan;
+}
